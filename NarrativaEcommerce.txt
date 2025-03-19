@@ -1,0 +1,20 @@
+Narrativa
+
+Projeto E-commerce
+
+- Cliente faz pedido
+- Pedido faz referencia ao produto
+- Produto pode estar em Estoque ou não
+- Entrega - possui status e código de rastreio
+- Pagamento- Pode ter cadastrado mais de uma forma de pagamento
+- cliente PJ e PF - Uma conta pode ser PJ ou PF, mas não pode ter as duas informações
+
+Narrativa Produto
+- Os produtos são vendidos por uma única plataforma online, Contudo, estes podem ter vendedores distintos
+- Cada produto possui um fornecedor
+- Um ou mais produtos podem compor um pedido
+
+Narrativa Cliente
+- O cliente pode se cadastrar no site com o seu CPF ou CNPJ
+- O Endereço do cliente irá determinar o valor do frete
+- Um cliente pode comprar mais de um pedido. Estes tem um período de carência para a devolução
